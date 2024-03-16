@@ -1,4 +1,4 @@
-[![Repro](https://i.ibb.co/QF6vNMN/Screenshot-2024-03-16-at-12-42-09.png)](https://streamable.com/e/zejzoq)
+https://github.com/OrJDev/create-jd-app/assets/91349014/25fa251a-9711-4772-8374-04fb1fcc5678
 
 
 This project was created using [Create JD App](https://github.com/OrJDev/create-jd-app)
